@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caches
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+
+# Secret key
+secret_key.txt
+
+# Development/Debugging
+*.log
+local_settings.py
+
+# Environment variables
+.env
